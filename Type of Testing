@@ -7,3 +7,25 @@ It is type of whitebox testing
 What is Integration Testing?
 Integration Testing is conducted by the tester
 It is type of blackbox testing
+
+Updated by 20_Jolin 👇
+
+System testing:
+- What is system testing:
+	Testing conducted on a complete integrated system to evaluate the system's compliance with the specific requirements.
+
+- Conducted by:
+	Testers
+
+- Type:
+	Whitebox
+
+Acceptance testing:
+- What is acceptance testing:
+	A quality assurance process that determines what degree an application meets end users' approvals.
+
+- Conducted by:
+	Customers/End users
+
+- Type:
+	Blackbox
